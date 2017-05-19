@@ -1,0 +1,36 @@
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe.config
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.pdb
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csprojResolveAssemblyReference.cache
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Properties.Resources.resources
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csproj.GenerateResource.Cache
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.exe
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.pdb
+C:\Users\Tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Form2.resources
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe.config
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.exe
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.pdb
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.pdb
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\mscorlib.dll
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\System.Net.Http.dll
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\System.Net.Http.xml
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\normidna.nlp
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\normnfc.nlp
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\normnfd.nlp
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\normnfkc.nlp
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\normnfkd.nlp
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Form2.resources
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Properties.Resources.resources
+C:\Users\Eren\Documents\Visual Studio 2012\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csproj.GenerateResource.Cache
+E:\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csprojResolveAssemblyReference.cache
+E:\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Form2.resources
+E:\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Properties.Resources.resources
+E:\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csproj.GenerateResource.Cache
+E:\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.exe
+E:\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.pdb
+E:\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe.config
+E:\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe
+E:\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.pdb
